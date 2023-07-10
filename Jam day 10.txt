@@ -1,0 +1,31 @@
+Jam day 10
+==========
+1. What does sdlc stands 
+2. what is the first phase of sdlc
+3.How is first phase of sdlc implemented
+4.Wow does an organization come to a conclusion in phase 1
+5.What's the second phase of sdlc
+6.What happens in second phase
+7.Users,Usecase,ER, ErDiagrams,Sequence diagrams are done in which phase and why
+8.In which phase does the actual programming comes into picture.
+9.Next phase after development is
+10.What happens in deployment phase
+11.What is maintainence phase do
+12.what is water fall
+13. what is spiral 
+14. what is agile
+15. what are two agile methodologies
+16. difference between two agile methodilogies
+17. What is a product backlog
+18. Who is a product owner
+19. What is a Sprint
+20. What is a scrum meeting and scrum board
+21. Name two consoled based application 
+22. Name two windows based applications
+23. Name two web based applications
+24. difference between class library and service and API
+25. What is SRS and why
+26. what is a scope of an applicationb
+27. What are SRS,BRS,NFR give difference
+
+

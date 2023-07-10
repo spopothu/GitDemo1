@@ -1,0 +1,52 @@
+1. out parameter
+2. ref parameter
+3. params array
+4. class library
+
+
+// Abstract classes
+abstract class A
+{
+              public abstract void callme();
+
+              void callmetoo()
+              {
+                  Console.WriteLine("This is a concrete method");    
+              }
+}
+
+class B : A
+{
+              public override void callme()
+              {
+                             Console.WriteLine("B's implementation of A's abstract method");             
+              }
+
+              void childMethod()
+              {
+                             Console.WriteLine("Child Class Method..");            
+              }
+}
+
+class AbstractDemo
+{
+              public static void main(String[] args) 
+              {
+//                          A a1 = new A();                // Cannot be instantiated
+
+                             B b = new B();
+                             Console.WriteLine("Sub Class reference...");        
+                             b.callme();
+                             b.callmetoo();
+                             b.childMethod();
+
+                             Console.WriteLine
+
+                            Console.WriteLine("Super Class reference...");    
+
+                             A a = new B();
+                             a.callme();
+                             a.callmetoo();
+//                          a.childMethod();
+              }
+}

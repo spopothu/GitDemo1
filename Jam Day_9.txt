@@ -1,0 +1,24 @@
+_ are foundational elements that are used to design, deploy and management .
+Servers, Network devices and other equipments fall under which infrastructure?
+Operating System falls under which category of infrastructure?
+___ infrastructure connects various components and devices and enable communication and data transfer.
+Give a few examples of Networking Infrastructure.
+Under which infrastructure do you consider storage capacity, redundancy, backup & data retrieval?
+Windows, MAC and Linux are ___
+What are Virtual Machines? and under which categories of infrastructuredo they fall?
+____ infrastructure is essential to protect data and resources from unauthorized access, data breach or cyber attacks?
+How do we prevent the above attacks and what are the differernt options?
+_____ is very important for ensuring smooth operations and identifying potential issues?
+Mananging patches and updates fall under _____
+3 differernt services provided by the cloud.
+Different types of cloud models.
+List the infrastructure issues.
+Load balancing and clusters are used for addressing which issue?
+How do you create a reliable and resilient infrastructure?
+ITIL Certification is for _______ 
+what are different levels in ITIL certification?
+What are the 2 different certifications for networking and which one deals with routers,switches?
+Which Certificate of Azure is used for infrastructure management?
+If PMP focussed on IT infrastructure management?
+Certification for  Information Security Professional.
+List the learning path for certification.
